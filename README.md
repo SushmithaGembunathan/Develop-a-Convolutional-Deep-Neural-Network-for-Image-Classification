@@ -8,7 +8,8 @@ The problem is to design and develop a Convolutional Deep Neural Network (CNN) t
 
 ##   NEURAK NETWORK DIAGRAM
 
-<img width="933" height="646" alt="567850301-305aa599-e7f5-4ce5-bd1c-986bb93b230f" src="https://github.com/user-attachments/assets/a9673958-525a-4db3-ab8b-94bf8b0b2d92" />
+<img width="1052" height="512" alt="3" src="https://github.com/user-attachments/assets/2145bbec-4e58-4808-98ad-2785dbab738a" />
+
 
 
 ## DESIGN STEPS
